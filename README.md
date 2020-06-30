@@ -1,4 +1,4 @@
-# White Matter Hyperintensities Automatic Segmentation Methods
+# Validation of White Matter Hyperintensities Automatic Segmentation Methods
 
 This repository is part of my master's degree thesis. In it, you will find a summary of all the work done through the process. Then, you will also find all the codes needed to run the different packages, methods, configurations and data needed to output the results of the thesis. Note that you won't find the MRI data due to privacy reasons.
 
@@ -16,5 +16,5 @@ During the whole process of developing this thesis, we could separate the work d
 
 The codes are separated in two different folders. All the requirments needed for each part are detailed in the respective codes and `README` file.
 
-* [Bash scrits folder](https://github.com/aarcascuerda/PFM-WMH/blob/master/bash_scripts) in where you will find all the scripts needed to preprocess the data and run the method container's as well as a `README` file detailing the process to run them.
+* [Bash scripts folder](https://github.com/aarcascuerda/PFM-WMH/blob/master/bash_scripts) in where you will find all the scripts needed to preprocess the data and run the method container's as well as a `README` file detailing the process to run them.
 * [Pythons folder](https://github.com/aarcascuerda/PFM-WMH/blob/master/pythons) in where you will find all the python notebooks needed to analyze the data, create the reference standard masks, compute the metrics and do the evaluation. Then, there is also a set of python files used to run those codes. All the descriptions are detailend in each file and the process to run them is detailed in the `README` file.
